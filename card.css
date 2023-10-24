@@ -1,0 +1,7 @@
+.card:hover{
+    box-shadow: 1px 2px 15px lightgray;
+    border-top-right-radius: 140px;
+    opacity:3;
+    
+    
+}
